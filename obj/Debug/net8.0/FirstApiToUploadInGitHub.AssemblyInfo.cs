@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstApiToUploadInGitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6a702ff7588d7ce8a5b82f1b4dae87fe4608fa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstApiToUploadInGitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstApiToUploadInGitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
